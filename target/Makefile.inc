@@ -1,5 +1,7 @@
 # Hey Emacs, this is a -*- makefile -*-
 #----------------------------------------------------------------------------
+# License: https://github.com/newaetech/chipwhisperer/blob/develop/LICENSE.txt
+#----------------------------------------------------------------------------
 #
 # Makefile for ChipWhisperer Victims
 #
